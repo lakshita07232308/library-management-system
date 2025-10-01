@@ -1,6 +1,6 @@
 # Library Management System
 
-A comprehensive console-based application for managing a student library, developed in C++. This project provides essential functionalities for handling student memberships and book transactions like issuing and returning books. It uses file handling to persistently store student and book data.
+A comprehensive console-based application for managing a student library, developed in C. This project provides essential functionalities for handling student memberships and book transactions like issuing and returning books. It uses file handling to persistently store student and book data.
 
 ## Features
 
